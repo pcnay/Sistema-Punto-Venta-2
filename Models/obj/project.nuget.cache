@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J+vA5Eu4PdaWgcmfeEr31U1O/lMM7PMCqwxJqroo2ekmodPEHhy0RlL1AAy1I9J9zB0eJZbGraZOx/UysTc/DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2572233\\Documents\\Programacion\\C#\\Sistema-Punto-De-Ventas-2\\Sistema-Punto-Venta\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2572233\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\2572233\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
