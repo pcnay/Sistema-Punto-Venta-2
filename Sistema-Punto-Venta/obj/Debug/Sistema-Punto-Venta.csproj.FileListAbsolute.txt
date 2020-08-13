@@ -8,3 +8,13 @@ C:\Users\2572233\Documents\Programacion\C#\Sistema Punto De Ventas\Sistema-Punto
 C:\Users\2572233\Documents\Programacion\C#\Sistema Punto De Ventas\Sistema-Punto-Venta\Sistema-Punto-Venta\obj\Debug\Sistema-Punto-Venta.csproj.CoreCompileInputs.cache
 C:\Users\2572233\Documents\Programacion\C#\Sistema Punto De Ventas\Sistema-Punto-Venta\Sistema-Punto-Venta\obj\Debug\Sistema-Punto-Venta.exe
 C:\Users\2572233\Documents\Programacion\C#\Sistema Punto De Ventas\Sistema-Punto-Venta\Sistema-Punto-Venta\obj\Debug\Sistema-Punto-Venta.pdb
+C:\Users\2572233\Documents\Programacion\C#\Sistema-Punto-De-Ventas-2\Sistema-Punto-Venta\Sistema-Punto-Venta\bin\Debug\Sistema-Punto-Venta.exe.config
+C:\Users\2572233\Documents\Programacion\C#\Sistema-Punto-De-Ventas-2\Sistema-Punto-Venta\Sistema-Punto-Venta\bin\Debug\Sistema-Punto-Venta.exe
+C:\Users\2572233\Documents\Programacion\C#\Sistema-Punto-De-Ventas-2\Sistema-Punto-Venta\Sistema-Punto-Venta\bin\Debug\Sistema-Punto-Venta.pdb
+C:\Users\2572233\Documents\Programacion\C#\Sistema-Punto-De-Ventas-2\Sistema-Punto-Venta\Sistema-Punto-Venta\obj\Debug\Sistema-Punto-Venta.csprojAssemblyReference.cache
+C:\Users\2572233\Documents\Programacion\C#\Sistema-Punto-De-Ventas-2\Sistema-Punto-Venta\Sistema-Punto-Venta\obj\Debug\Sistema_Punto_Venta.Form1.resources
+C:\Users\2572233\Documents\Programacion\C#\Sistema-Punto-De-Ventas-2\Sistema-Punto-Venta\Sistema-Punto-Venta\obj\Debug\Sistema_Punto_Venta.Properties.Resources.resources
+C:\Users\2572233\Documents\Programacion\C#\Sistema-Punto-De-Ventas-2\Sistema-Punto-Venta\Sistema-Punto-Venta\obj\Debug\Sistema-Punto-Venta.csproj.GenerateResource.cache
+C:\Users\2572233\Documents\Programacion\C#\Sistema-Punto-De-Ventas-2\Sistema-Punto-Venta\Sistema-Punto-Venta\obj\Debug\Sistema-Punto-Venta.csproj.CoreCompileInputs.cache
+C:\Users\2572233\Documents\Programacion\C#\Sistema-Punto-De-Ventas-2\Sistema-Punto-Venta\Sistema-Punto-Venta\obj\Debug\Sistema-Punto-Venta.exe
+C:\Users\2572233\Documents\Programacion\C#\Sistema-Punto-De-Ventas-2\Sistema-Punto-Venta\Sistema-Punto-Venta\obj\Debug\Sistema-Punto-Venta.pdb
