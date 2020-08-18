@@ -26,5 +26,10 @@ namespace Sistema_Punto_Venta
         {
 
         }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
