@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Models
+namespace ViewModels.Library
 {
-    public class Class1
+    public class Objects
     {
     }
 }

@@ -31,5 +31,22 @@ namespace Sistema_Punto_Venta
         {
 
         }
+
+        private void Cliente_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
+        // Se colocara todo lo relacionado a los clientes.
+        #region
+        private void buttonCliente_Click(object sender, EventArgs e)
+        {
+            tabControlPrincipal.SelectedIndex = 1; // Pasara a la pestaña de "Clientes"
+
+        }
+
+        #endregion
+
     }
 }
