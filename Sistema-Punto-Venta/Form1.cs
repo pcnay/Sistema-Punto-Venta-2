@@ -10,43 +10,52 @@ using System.Windows.Forms;
 
 namespace Sistema_Punto_Venta
 {
-    public partial class Form1 : Form
-    {
-        public Form1()
-        {
-            InitializeComponent();
-        }
+	public partial class Form1 : Form
+	{
+		public Form1()
+		{
+			InitializeComponent();
+		}
 
-        private void label2_Click(object sender, EventArgs e)
-        {
+		private void label2_Click(object sender, EventArgs e)
+		{
 
-        }
+		}
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
+		private void Form1_Load(object sender, EventArgs e)
+		{
 
-        }
+		}
 
-        private void label5_Click(object sender, EventArgs e)
-        {
+		private void label5_Click(object sender, EventArgs e)
+		{
 
-        }
+		}
 
-        private void Cliente_Click(object sender, EventArgs e)
-        {
+		private void Cliente_Click(object sender, EventArgs e)
+		{
 
-        }
+		}
+
+		// ===============================================
+		// Se colocara todo lo relacionado a los clientes.
+		// ===============================================
 
 
-        // Se colocara todo lo relacionado a los clientes.
-        #region
-        private void buttonCliente_Click(object sender, EventArgs e)
-        {
-            tabControlPrincipal.SelectedIndex = 1; // Pasara a la pestaña de "Clientes"
+		#region
+		private void buttonCliente_Click(object sender, EventArgs e)
+		{
+			tabControlPrincipal.SelectedIndex = 1; // Pasara a la pestaña de "Clientes"
 
-        }
+		}
 
-        #endregion
+		private void pictureBoxCliente_Click(object sender, EventArgs e)
+		{
+			Objects
+		}
+		#endregion
 
-    }
+
+
+	}
 }

@@ -22,6 +22,7 @@ namespace ViewModels.Library
             {
               pictureBox.ImageLocation = fd.FileName; // la ruta donde se encuentra la imagen
 
+
             }
         }
             

@@ -51,7 +51,7 @@
             this.textBoxCliente_Nid = new System.Windows.Forms.TextBox();
             this.labelCliente_Nid = new System.Windows.Forms.Label();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBoxCliente = new System.Windows.Forms.PictureBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
@@ -69,7 +69,7 @@
             this.tabControl2.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.groupBox4.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCliente)).BeginInit();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -305,21 +305,22 @@
             // 
             // groupBox4
             // 
-            this.groupBox4.Controls.Add(this.pictureBox2);
+            this.groupBox4.Controls.Add(this.pictureBoxCliente);
             this.groupBox4.Location = new System.Drawing.Point(27, 35);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(241, 195);
             this.groupBox4.TabIndex = 2;
             this.groupBox4.TabStop = false;
             // 
-            // pictureBox2
+            // pictureBoxCliente
             // 
-            this.pictureBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox2.Location = new System.Drawing.Point(33, 19);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(172, 165);
-            this.pictureBox2.TabIndex = 0;
-            this.pictureBox2.TabStop = false;
+            this.pictureBoxCliente.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBoxCliente.Location = new System.Drawing.Point(33, 19);
+            this.pictureBoxCliente.Name = "pictureBoxCliente";
+            this.pictureBoxCliente.Size = new System.Drawing.Size(172, 165);
+            this.pictureBoxCliente.TabIndex = 0;
+            this.pictureBoxCliente.TabStop = false;
+            this.pictureBoxCliente.Click += new System.EventHandler(this.pictureBoxCliente_Click);
             // 
             // label5
             // 
@@ -466,7 +467,7 @@
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
             this.groupBox4.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCliente)).EndInit();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.groupBox1.ResumeLayout(false);
@@ -499,7 +500,7 @@
         private System.Windows.Forms.TextBox textBoxCliente_Nid;
         private System.Windows.Forms.Label labelCliente_Nid;
         private System.Windows.Forms.GroupBox groupBox4;
-        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox pictureBoxCliente;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label labelCliente_Email;
         private System.Windows.Forms.TextBox textBoxCliente_Apellido;
