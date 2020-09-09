@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ViewModels.Library;
 
 namespace Sistema_Punto_Venta
 {
@@ -51,7 +52,7 @@ namespace Sistema_Punto_Venta
 
 		private void pictureBoxCliente_Click(object sender, EventArgs e)
 		{
-			Objects
+			Objects.uploadimage.CargarImagen(pictureBoxCliente);
 		}
 		#endregion
 

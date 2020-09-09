@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Sistema-Punto-Venta"
+    "\\Sistema-Punto-Venta",
+    "\\ViewModels"
   ],
   "SelectedNode": "\\Sistema-Punto-Venta\\Form1.Designer.cs",
   "PreviewInSolutionExplorer": false
